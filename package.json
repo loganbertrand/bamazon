@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Node based amazon storefront",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganbertrand/bamazon.git"
+  },
+  "author": "Logan Bertrand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loganbertrand/bamazon/issues"
+  },
+  "homepage": "https://github.com/loganbertrand/bamazon#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
