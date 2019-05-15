@@ -51,14 +51,10 @@ function askCustomer(){
       },
     ])
     .then(function(answer) {
-        results();
+        //If there are not that many to purchase, return error
+
+        //Otherwise fulfill the order and deduct the amount bought from the inventory
+        //And return the total cost of the purchase
     })
     
-}
-
-function results(){
-    //If there are not that many to purchase, return error
-
-    //Otherwise fulfill the order and deduct the amount bought from the inventory
-    //And return the total cost of the purchase
 }
