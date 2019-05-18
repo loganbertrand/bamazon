@@ -4,6 +4,7 @@ Amazon-like Storefront using Node and MySQL
 * By entering "node bamazonCustomer.js" into your console, you can begin the process of using this storefront
 * Don't forget to install the necessary dependencies!
 * If for any reason you need to leave the program before completion, hit Ctrl + C and you will be taken out
+* Tutorial below has normal console.table, but code has been updated with an npm table package for a cleaner table with no index column
 
 
 
